@@ -1,3 +1,4 @@
 ---
-title: Welcome to my blog!
+title: Hello!! 
+body: Idk chicken nuggets are nice
 ---
